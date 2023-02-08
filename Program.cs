@@ -78,8 +78,6 @@ namespace APIConsole
             const int ZIP5 = 4;
             const int ZIP4 = 5;
 
-            requestList = new List<AddressValidateRequest>();
-
             foreach (DataRow row in table.Rows)
             {
                 var rq = new AddressValidateRequest();
