@@ -16,7 +16,7 @@ namespace APIConsole
         //Configuration
         const int THREAD_COUNT = 100;
         const bool UPDATE_UI = true;
-        const int UPDATE_RATE = 10;
+        const int UPDATE_RATE = 1000;
         const int TASK_DELAY = 1;
         const string BASE_URL = "https://secure.shippingapis.com/ShippingAPI.dll?API=Verify&XML=";
         const string USER_ID = "213CVSHE8041";
@@ -37,7 +37,7 @@ namespace APIConsole
         //Constants
         const string TAB = "     ";
         static readonly Encoding ISO88591 = Encoding.GetEncoding("ISO-8859-1");
-        
+
         //Utilities
         static readonly PrintUtility print = new PrintUtility();
         static readonly FileUtility file = new FileUtility(OUTPUT_FILE);
