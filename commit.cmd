@@ -6,4 +6,5 @@ For /f "tokens=1-2 delims=/:" %%a in ('time /t') do (set mytime=%%a%%b)
 git add .
 git commit -m "commit %mydate%_%mytime%"
 git push origin main
-pause
+
+timeout 5
