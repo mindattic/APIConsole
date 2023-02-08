@@ -1,11 +1,14 @@
 ﻿using System.Diagnostics;
+using System.Text;
 
-namespace USPSAddressValidator.Utilities
+namespace APIConsole.Utilities
 {
     public class FileUtility
     {
         private string fileName;
         private string textEditor;
+
+        //TODO: https://stackoverflow.com/a/373372
 
         public FileUtility(string fileName, string textEditor = "notepad.exe")
         {

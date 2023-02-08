@@ -3,7 +3,7 @@
 using Microsoft.VisualBasic.FileIO; // This namespace usage is important or else TextFieldParser method will lead to error
 using System.Data;
 
-namespace USPSAddressValidator.Utilities
+namespace APIConsole.Utilities
 {
     public class CSVUtility
     {

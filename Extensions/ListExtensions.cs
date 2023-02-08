@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace USPSAddressValidator.Extensions
+namespace APIConsole.Extensions
 {
     /// <summary>
     /// Helper methods for the lists.

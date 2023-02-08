@@ -1,6 +1,6 @@
-﻿using USPSAddressValidator.Extensions;
+﻿using APIConsole.Extensions;
 
-namespace USPSAddressValidator.Utilities
+namespace APIConsole.Utilities
 {
     public class PrintUtility
     {
