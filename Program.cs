@@ -176,7 +176,7 @@ namespace APIConsole
 
         private static void RefreshUI()
         {
-            if (UPDATE_UI && results.Count % UPDATE_RATE == 0)
+            if (UPDATE_UI && count % UPDATE_RATE == 0)
                 print.Line($"{TimeStamp}{TAB}{count:N0} requests completed.");
         }
 
