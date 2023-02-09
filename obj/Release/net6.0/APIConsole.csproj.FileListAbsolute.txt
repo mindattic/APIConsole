@@ -1,0 +1,15 @@
+C:\Users\ryand\OneDrive\Desktop\APIConsole\bin\Release\net6.0\APIConsole.exe
+C:\Users\ryand\OneDrive\Desktop\APIConsole\bin\Release\net6.0\APIConsole.deps.json
+C:\Users\ryand\OneDrive\Desktop\APIConsole\bin\Release\net6.0\APIConsole.runtimeconfig.json
+C:\Users\ryand\OneDrive\Desktop\APIConsole\bin\Release\net6.0\APIConsole.dll
+C:\Users\ryand\OneDrive\Desktop\APIConsole\bin\Release\net6.0\APIConsole.pdb
+C:\Users\ryand\OneDrive\Desktop\APIConsole\obj\Release\net6.0\APIConsole.csproj.AssemblyReference.cache
+C:\Users\ryand\OneDrive\Desktop\APIConsole\obj\Release\net6.0\APIConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryand\OneDrive\Desktop\APIConsole\obj\Release\net6.0\APIConsole.AssemblyInfoInputs.cache
+C:\Users\ryand\OneDrive\Desktop\APIConsole\obj\Release\net6.0\APIConsole.AssemblyInfo.cs
+C:\Users\ryand\OneDrive\Desktop\APIConsole\obj\Release\net6.0\APIConsole.csproj.CoreCompileInputs.cache
+C:\Users\ryand\OneDrive\Desktop\APIConsole\obj\Release\net6.0\APIConsole.dll
+C:\Users\ryand\OneDrive\Desktop\APIConsole\obj\Release\net6.0\refint\APIConsole.dll
+C:\Users\ryand\OneDrive\Desktop\APIConsole\obj\Release\net6.0\APIConsole.pdb
+C:\Users\ryand\OneDrive\Desktop\APIConsole\obj\Release\net6.0\APIConsole.genruntimeconfig.cache
+C:\Users\ryand\OneDrive\Desktop\APIConsole\obj\Release\net6.0\ref\APIConsole.dll

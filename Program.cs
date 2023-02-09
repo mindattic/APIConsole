@@ -20,8 +20,8 @@ namespace APIConsole
         const int TASK_DELAY = 1;
         const string BASE_URL = "https://secure.shippingapis.com/ShippingAPI.dll?API=Verify&XML=";
         const string USER_ID = "213CVSHE8041";
-        const string INPUT_FILE = "C:\\Users\\ryand\\OneDrive\\Desktop\\APIConsole\\test2.csv";
-        const string OUTPUT_FILE = "C:\\Users\\ryand\\OneDrive\\Desktop\\APIConsole\\results.csv";
+        const string INPUT_FILE = "test1.csv";
+        const string OUTPUT_FILE = "results.csv";
 
         //Startup
         static async Task Main(string[] args)
